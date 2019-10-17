@@ -83,3 +83,6 @@ terminates the currently running process
 
 * **bg, fg**  
 starts a suspended process running in the background or foreground
+
+---
+[Reference](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html
